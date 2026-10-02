@@ -3,12 +3,6 @@
 **AI Engineer & Desenvolvedor Backend** focado em produtizar soluções de Inteligência Artificial, orquestração de LLMs e construir arquiteturas escaláveis.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cristian-brunone-69b0b928a/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://w.app/CristianBrunone)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cristianbrunone?igsh=MnN0YXhmdDE0MHV4)
-
-![Cristian GitHub stats](https://github-readme-stats.vercel.app/api?username=cristianbrunone&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristianbrunone&langs_count=8)
 
 ---
 
